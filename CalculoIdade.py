@@ -38,4 +38,19 @@ match funcao:
     case _:
         print('comando não reconhecido')
 
+# Mesma função mais em if else
+
+# if funcao == 'decada':
+#     decada(idade)
+    
+# elif funcao == 'quadrado':
+#     quadrado(idade)
+
+# elif funcao == 'dobro':
+#     dobro(idade)
+
+# else:
+#     print('comando não reconhecido')
+
+
 # mt importante a tabeação além de deixar mt lindo como diria o zen do python bonito é melhor que feio
